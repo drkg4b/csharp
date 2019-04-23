@@ -1,2 +1,0 @@
-# csharp
-C# small projects
